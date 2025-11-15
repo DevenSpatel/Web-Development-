@@ -1,0 +1,21 @@
+.register-form{
+    max-width: 700px;
+    margin-top: 100px;
+    padding: 30px;
+    height: 520px;
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: #f8f9fa;
+    transition: transform 0.3s cubic-bezier(0.4,0,0.2,1), box-shadow 0.3s cubic-bezier(0.4,0,0.2,1);
+}
+.register-form:hover{
+    transform: translateY(-10px);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+}
+.login-link{
+    text-align: center;
+    margin-top: 40px;
+}
+.signinbtn{
+    margin-top: 50px;
+}
