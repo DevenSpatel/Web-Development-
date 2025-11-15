@@ -1,1 +1,0 @@
-Im still learning github and don't excatly know how to organize stuff here, im just dumping my projects and codes haha, so if you have hard time finding my projects am really sorry i'll try to organize this stuff later (probably never)
